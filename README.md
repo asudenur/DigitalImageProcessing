@@ -19,10 +19,10 @@ Bu proje, Python, PyQt5 ve OpenCV kullanılarak geliştirilmiş kapsamlı bir di
 
 3. **Final Projesi Özellikleri**
    - S-Curve Kontrast Güçlendirme
-     ![Ekran görüntüsü 2025-05-23 171706](https://github.com/user-attachments/assets/7ecad4d3-1e22-4aa5-b365-f5a6f9645306)
-     ![Ekran görüntüsü 2025-05-23 171739](https://github.com/user-attachments/assets/72937f1f-da79-4733-ab22-3d14e143220c)
-     ![Ekran görüntüsü 2025-05-23 171729](https://github.com/user-attachments/assets/666c4d5d-226e-402c-b67e-cfddfa0eb5ea)
-     ![Ekran görüntüsü 2025-05-23 171719](https://github.com/user-attachments/assets/8cce0dd6-67b0-4180-93c6-0150a1d5ce89)
+      ![Ekran görüntüsü 2025-05-23 171706](https://github.com/user-attachments/assets/7ecad4d3-1e22-4aa5-b365-f5a6f9645306)
+      ![Ekran görüntüsü 2025-05-23 171739](https://github.com/user-attachments/assets/72937f1f-da79-4733-ab22-3d14e143220c)
+      ![Ekran görüntüsü 2025-05-23 171729](https://github.com/user-attachments/assets/666c4d5d-226e-402c-b67e-cfddfa0eb5ea)
+      ![Ekran görüntüsü 2025-05-23 171719](https://github.com/user-attachments/assets/8cce0dd6-67b0-4180-93c6-0150a1d5ce89)
 
    - Hough Dönüşümü Uygulamaları
      - Yol Çizgi tespiti
